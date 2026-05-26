@@ -1,6 +1,6 @@
 # Kinetic City
 
-Kinetic City is an immersive, interactive learning platform designed to make financial education engaging and accessible. By visualizing financial concepts through dynamic cityscapes and real-time market data, it transforms dry concepts into an interactive journey.
+Kinetic City is an immersive, interactive learning platform designed to make financial education engaging and accessible. By visualizing financial concepts through dynamic cityscapes and real-time market data, it transforms dry concepts into an interactive journey
 
 ## 🚀 Features
 - **Dynamic Learning Paths**: Tailored curriculum tracks (Foundations, Technical Analysis, Wealth Building).
